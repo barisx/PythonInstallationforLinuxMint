@@ -1,4 +1,4 @@
-# Python Installation for Linux Mint
+# Python Installation for Linux
 
 #### Python 2 Delete
 ```bash
